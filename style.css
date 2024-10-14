@@ -4,19 +4,20 @@
                 color: rgb(132, 9, 9);
             }
             h1{
-                color: blue;
+                color: black;
                 font-style: italic;
                 font-size: xx-large;
                 text-align: center;
             }
             .secdiv{
-                background-color: blue;
+                background-color: navy;
                 align-items: center;
                 justify-content: center;
                 display:flex ;
             }
             button{
                 background-color: green;
+                font-size: 30px;
                 color: white;
                 margin: 5px;
                 margin-left: 10px;
@@ -25,10 +26,11 @@
                 margin-bottom: 130px;
                 padding: 30px 100px;
                 cursor: pointer;
-                border: 10px ridge rgb(45, 45, 34)
+                border: 10px ridge rgb(237, 147, 102)
             }
             button:hover{
                 background-color:red ;
-                color: yellow;  
+                color: black;
+                font-size: 50px;  
             }   
     
