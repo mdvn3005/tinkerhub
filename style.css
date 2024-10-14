@@ -1,0 +1,32 @@
+
+            body{
+                background-color: chartreuse;
+                color: rgb(132, 9, 9);
+            }
+            h1{
+                color: blue;
+                font-style: italic;
+                font-size: xx-large;
+                text-align: center;
+            }
+            .secdiv{
+                background-color: blue;
+                align-items: center;
+                justify-content: center;
+                display:flex ;
+            }
+            button{
+                margin: 5px;
+                margin-left: 10px;
+                margin-right: 10px;
+                margin-top: 150px;
+                margin-bottom: 80px;
+                padding: 30px 100px;
+                cursor: pointer;
+                border: 10px dotted black
+            }
+            button:hover{
+                background-color:red ;
+                color: yellow;
+            }
+    
