@@ -32,6 +32,13 @@
             .subbuttJS{
                 color: black ;
                 background-color: grey;
+                margin: 30px;
+                margin-left: 100px;
+                padding: 5px 10px;
+                border: ridge 10px;
+                border-radius: 20px;
+                font-size: 30px;
+                
             }
             .subbutt{
                 margin: 30px;
@@ -46,9 +53,12 @@
             .subbutt:hover{
                 font-size: 50px;
             }
-            /* button:hover{
+            button:hover{
                 background-color:red ;
                 color: black;
                 font-size: 30px;  
-            }   
-     */
+            }  
+            /* .subbuttJS:hover{
+                background-color: white
+            }  */
+    

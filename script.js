@@ -30,7 +30,7 @@
                 }
                 else{
                     document.getElementById('subbutt').innerText = 'Subscribe';
-                    document.querySelector('.subbuttJS').classList.add('subbut');
+                    document.querySelector('.subbuttJS').classList.add('subbutt');
                     document.querySelector('.subbutJS').classList.remove('subbuttJS');
                 }
 
