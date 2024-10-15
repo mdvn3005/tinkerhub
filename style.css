@@ -15,7 +15,7 @@
                 justify-content: center;
                 display:flex ;
             }
-            button{
+            .firstButton{
                 background-color: green;
                 font-size: 20px;
                 color: white;
@@ -28,9 +28,27 @@
                 cursor: pointer;
                 border: 10px ridge rgb(237, 147, 102)
             }
-            button:hover{
+            
+            .subbuttJS{
+                color: black ;
+                background-color: grey;
+            }
+            .subbutt{
+                margin: 30px;
+                margin-left: 100px;
+                padding: 5px 10px;
+                border: ridge 10px;
+                border-radius: 20px;
+                font-size: 30px;
+                background-color: black;
+                color: white;
+            }
+            .subbutt:hover{
+                font-size: 50px;
+            }
+            /* button:hover{
                 background-color:red ;
                 color: black;
                 font-size: 30px;  
             }   
-    
+     */
