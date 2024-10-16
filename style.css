@@ -50,9 +50,9 @@
                 background-color: black;
                 color: white;
             }
-            .subbutt:hover{
+            /* .subbutt:hover{
                 font-size: 50px;
-            }
+            } */
             button:hover{
                 background-color:red ;
                 color: black;
